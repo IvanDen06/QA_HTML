@@ -1,13 +1,9 @@
-Cheklist HM №4 https://docs.google.com/document/d/1bIKNwW8loMb0GSkXmXIk3r7Hyccy5QMtYlkJZnYZ_Gg/edit?usp=sharing
+[Cheklist HM №4](MyWork\hm_4.docx)
 
+[TestCase HM №5](MyWork\hm_5.docx)
 
-TestCase HM №5 https://docs.google.com/document/d/1bIKNwW8loMb0GSkXmXIk3r7Hyccy5QMtYlkJZnYZ_Gg/edit?usp=sharing
+[BugReport HM №12](MyWork\hm_12.docx)
 
+[TestCase HM №15](MyWork\hm_14.docx)
 
-BugReport HM №12 https://docs.google.com/document/d/1bIKNwW8loMb0GSkXmXIk3r7Hyccy5QMtYlkJZnYZ_Gg/edit?usp=sharing
-
-
-TestCase HM №15 https://docs.google.com/document/d/1bIKNwW8loMb0GSkXmXIk3r7Hyccy5QMtYlkJZnYZ_Gg/edit?usp=sharing
-
-
-BugReport HM №14 https://docs.google.com/document/d/1bIKNwW8loMb0GSkXmXIk3r7Hyccy5QMtYlkJZnYZ_Gg/edit?usp=sharing
+[BugReport HM №14](MyWork\hm_15.docx)
